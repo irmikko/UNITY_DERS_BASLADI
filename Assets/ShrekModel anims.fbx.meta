@@ -1,0 +1,2251 @@
+fileFormatVersion: 2
+guid: 6bfb96de579e5df469cdd45017d9d7b8
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -2081149756021278733
+    second: m_shrek_idle6
+  - first:
+      74: -7777131997072828824
+    second: m_Shrek_int_footTap1
+  - first:
+      74: 6643768774960516236
+    second: m_Shrek_wthr_hot_Loop
+  - first:
+      74: -4605103237353937524
+    second: m_Shrek_runLoop
+  - first:
+      74: 3574442218280543926
+    second: m_Shrek_int_noseHorn_Full
+  - first:
+      74: -1577392248649940037
+    second: m_Shrek_tired_in
+  - first:
+      74: 7490248020101707292
+    second: m_Shrek_scratch_Out1
+  - first:
+      74: -2670835203244924837
+    second: m_Shrek_scratch_Out2
+  - first:
+      74: -1104706994831890091
+    second: m_Shrek_wthr_clearNightIn
+  - first:
+      74: -989470241459074928
+    second: m_Shrek_idle7_AW_Looped
+  - first:
+      74: 6508727835771334714
+    second: m_Shrek_scratch_In
+  - first:
+      74: -2365526128370674576
+    second: m_Shrek_tired_out
+  - first:
+      74: 947683867746032707
+    second: m_Shrek_idle3_Loop
+  - first:
+      74: 4267264412094449293
+    second: m_Shrek_wthr_clearNightLoop
+  - first:
+      74: 6505250483188287913
+    second: m_Shrek_tickleLoop
+  - first:
+      74: 8118516244809796951
+    second: m_Shrek_idle2_Loop
+  - first:
+      74: 1834351105246624894
+    second: m_Shrek_food_hungry_out
+  - first:
+      74: 9017884835688402358
+    second: m_Shrek_wthr_hot_In
+  - first:
+      74: -8262071558818055805
+    second: m_Shrek_food_hungry_loop
+  - first:
+      74: -5582080647950031157
+    second: m_Shrek_idle2_In
+  - first:
+      74: -1630290952304423575
+    second: m_Shrek_mistake
+  - first:
+      74: -3116987912695569130
+    second: m_Shrek_Fullstrech
+  - first:
+      74: -8999455718255662143
+    second: m_Shrek_tired_loop
+  - first:
+      74: -517518412458486221
+    second: m_Shrek_food_openMouth
+  - first:
+      74: -856019250363436288
+    second: m_Shrek_int_RightFootTap
+  - first:
+      74: -7279331103332911770
+    second: m_Shrek_idle4_GrumpyLoop
+  - first:
+      74: 2340645975224316577
+    second: m_Shrek_tickleOut
+  - first:
+      74: -7562002047156678312
+    second: m_Shrek_int_gas3
+  - first:
+      74: -5886752920494138087
+    second: m_Shrek_wthr_clearNightOut
+  - first:
+      74: -2062839683017405606
+    second: m_Shrek_idle3_Out
+  - first:
+      74: -2707614974660011533
+    second: m_Shrek_wakeAlarm1
+  - first:
+      74: -312516722334646676
+    second: m_Shrek_int_gas1
+  - first:
+      74: -8715489509302635680
+    second: m_Shrek_food_eat
+  - first:
+      74: -4595407386872694203
+    second: m_Shrek_int_ears
+  - first:
+      74: 4126523109339969620
+    second: m_Shrek_wthr_frost
+  - first:
+      74: -2384508467589760043
+    second: m_Shrek_wthr_snow
+  - first:
+      74: -7417008704987073711
+    second: m_Shrek_idle5
+  - first:
+      74: 5472384682022780376
+    second: m_Shrek_scratch_Loop
+  - first:
+      74: 192909041847949451
+    second: m_Shrek_pokedLeftShoulder
+  - first:
+      74: 1990825537442458778
+    second: m_Shrek_int_Lhand
+  - first:
+      74: -1774055501163287850
+    second: m_shrek_sleeping
+  - first:
+      74: 8863244637979065381
+    second: m_Shrek_int_shldr
+  - first:
+      74: -6052985456401983412
+    second: m_Shrek_idle10_AW
+  - first:
+      74: -3473315736091010649
+    second: m_Shrek_getAngry
+  - first:
+      74: -4869070468636838935
+    second: m_Shrek_food_hungry_react1
+  - first:
+      74: -7673628434669498895
+    second: m_shrek_breathe9
+  - first:
+      74: 8364251269051792902
+    second: m_Shrek_idle4_AW
+  - first:
+      74: 6620766065302691374
+    second: m_Shrek_breathe7
+  - first:
+      74: -6568750781733657488
+    second: m_shrek_idle1
+  - first:
+      74: 67316802218430444
+    second: m_Shrek_wthr_rain_AW
+  - first:
+      74: 757041219548704190
+    second: m_Shrek_tickleIn
+  - first:
+      74: 680899127816485011
+    second: m_Shrek_wakeup
+  - first:
+      74: -870295376218645440
+    second: m_Shrek_idle8_AW
+  - first:
+      74: 177528738962855292
+    second: m_Shrek_breathe1
+  - first:
+      74: -1117922139238500446
+    second: m_Shrek_int_react1
+  - first:
+      74: 6912598212975304219
+    second: m_Shrek_int_gas6
+  - first:
+      74: -846039684935184798
+    second: m_shrek_roar3
+  - first:
+      74: 7124775539753209200
+    second: m_Shrek_breathe8
+  - first:
+      74: -8833902509504036134
+    second: m_Shrek_idle3
+  - first:
+      74: 4392560731238368115
+    second: m_Shrek_poked1
+  - first:
+      74: 2948969752744709206
+    second: m_Shrek_int_gas2
+  - first:
+      74: -7444029499955511632
+    second: m_Shrek_idle9_AW
+  - first:
+      74: -4699231904026298197
+    second: m_shrek_pokedWarning2
+  - first:
+      74: 5042444554300656322
+    second: m_Shrek_int_footTap2
+  - first:
+      74: 1020823571333003908
+    second: m_Shrek_roar1
+  - first:
+      74: 1965813583554939059
+    second: m_Shrek_breathe5
+  - first:
+      74: -2736018360697593035
+    second: m_Shrek_int_belly
+  - first:
+      74: -8569331198987265962
+    second: m_Shrek_roar2Brth1
+  - first:
+      74: 4657115888222672248
+    second: m_Shrek_pokedWarning1
+  - first:
+      74: 4336802476117770380
+    second: m_Shrek_tired_react1
+  - first:
+      74: -7888606366488992039
+    second: m_Shrek_idle7_AW
+  - first:
+      74: -9021032487865147386
+    second: m_Shrek_pokedRightShoulder
+  - first:
+      74: -8480819705031416008
+    second: m_Shrek_int_react3
+  - first:
+      74: -88057091034296035
+    second: m_Shrek_wthr_wind
+  - first:
+      74: 59701272629186344
+    second: m_Shrek_breathe4
+  - first:
+      74: 3758658270615358601
+    second: m_Shrek_int_head2
+  - first:
+      74: -5858789772465385981
+    second: m_Shrek_breathe3
+  - first:
+      74: 9131104208822875307
+    second: m_Shrek_int_gas8
+  - first:
+      74: 4346534006614250048
+    second: m_Shrek_int_gas4
+  - first:
+      74: 1710712843743136074
+    second: m_Shrek_breathe6
+  - first:
+      74: 2310314336615546359
+    second: m_Shrek_int_Rknee
+  - first:
+      74: -1715065967034792499
+    second: m_Shrek_int_head1
+  - first:
+      74: -7053324117135850117
+    second: m_Shrek_roar2Brth2
+  - first:
+      74: -5446661159571729453
+    second: m_Shrek_food_reject
+  - first:
+      74: -2688807284486939152
+    second: m_Shrek_wthr_hot_Out
+  - first:
+      74: 6220419480965565992
+    second: m_shrek_breathe10
+  - first:
+      74: 5194060247230091939
+    second: m_Shrek_asleep_poke2
+  - first:
+      74: 8352967859884624192
+    second: m_Shrek_idle2
+  - first:
+      74: -2710520386999131371
+    second: m_Shrek_int_Lknee
+  - first:
+      74: -205332325640645022
+    second: m_Shrek_poked3
+  - first:
+      74: -4192552761623872429
+    second: m_Shrek_int_react4
+  - first:
+      74: -2020163951190658103
+    second: m_Shrek_int_gas5
+  - first:
+      74: -7134523026004880546
+    second: m_Shrek_int_gas7
+  - first:
+      74: 2908170437228283755
+    second: m_Shrek_int_Rhand
+  - first:
+      74: -4854871028718539006
+    second: m_Shrek_breathe2
+  - first:
+      74: 8615046624825465259
+    second: m_shrek_fall_asleep
+  - first:
+      74: 4523467152245971308
+    second: m_Shrek_roar4
+  - first:
+      74: -7082577223143819065
+    second: m_Shrek_roarBreathe
+  - first:
+      74: 633977441808183499
+    second: m_Shrek_asleep_poke1
+  - first:
+      74: -4729500704345639187
+    second: m_shrek_roar2
+  - first:
+      74: 5079217333496095623
+    second: m_Shrek_food_hungry_in
+  - first:
+      74: -1165777536132960644
+    second: m_Shrek_tickleNoteReact
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'm_shrek_idle6' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1' has translation
+      animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2' has translation
+      animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3' has translation
+      animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_hand_index_1' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_hand_pinky_2' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_hand_ring_1' has translation
+      animation that will be discarded.\n\t'shrek:jnt_l_leg_knee' has translation
+      animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_leg_knee' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle' has translation
+      animation that will be discarded.\n\nClip 'm_Shrek_int_footTap1' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_hot_Loop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_runLoop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_noseHorn_Full'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_tired_in'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_scratch_Out1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_scratch_Out2'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_clearNightIn'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle7_AW_Looped'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_scratch_In'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_tired_out'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle3_Loop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_clearNightLoop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_tickleLoop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle2_Loop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_food_hungry_out'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_hot_In'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_food_hungry_loop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle2_In'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_mistake'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_Fullstrech'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_tired_loop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_food_openMouth'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_RightFootTap'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle4_GrumpyLoop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_tickleOut'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_index_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_gas3'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_clavicle' has
+      translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_index_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_index_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_mid_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_mid_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_ring_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_ring_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_index_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_index_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_mid_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_mid_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_ring_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_ring_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_clearNightOut'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle3_Out'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wakeAlarm1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_gas1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_food_eat'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_ears'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_frost'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_snow'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle5' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_scratch_Loop'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_pokedLeftShoulder'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_Lhand'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_shrek_sleeping'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_shldr'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle10_AW'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_getAngry'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_food_hungry_react1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_shrek_breathe9'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_index_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_mid_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle4_AW'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_breathe7'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_shrek_idle1' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_rain_AW'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_tickleIn'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_index_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_index_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_mid_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_mid_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_pinky_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_ring_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_ring_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wakeup'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_l_arm_elbow' has
+      translation animation that will be discarded.\n\t'shrek:jnt_l_arm_wrist' has
+      translation animation that will be discarded.\n\t'shrek:jnt_l_hand_index_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_ring_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle8_AW'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_breathe1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_react1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_gas6'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_shrek_roar3' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_leg_knee' has translation
+      animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_leg_knee' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle' has translation
+      animation that will be discarded.\n\nClip 'm_Shrek_breathe8' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle3' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_poked1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_gas2'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_neck'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_index_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_index_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_mid_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle9_AW'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_thumb_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_shrek_pokedWarning2'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_footTap2'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_roar1' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_leg_knee' has translation
+      animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_leg_knee' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle' has translation
+      animation that will be discarded.\n\nClip 'm_Shrek_breathe5' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_belly'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_roar2Brth1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_pokedWarning1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_tired_react1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle7_AW'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_pokedRightShoulder'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_react3'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_wind'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_breathe4'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_thumb_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_head2'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_breathe3'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_gas8'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_gas4'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_breathe6'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_Rknee'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_index_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_mid_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_head1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_roar2Brth2'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_l_arm_wrist' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_food_reject'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_wthr_hot_Out'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_shrek_breathe10'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_asleep_poke2'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_idle2' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_hip'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_Lknee'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_poked3'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_react4'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_gas5'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_gas7'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_neck'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_int_Rhand'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_thumb_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_breathe2'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_shrek_fall_asleep'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_hand_ring_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_roar4' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_l_leg_knee' has translation
+      animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_leg_knee' has translation
+      animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle' has translation
+      animation that will be discarded.\n\nClip 'm_Shrek_roarBreathe' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_l_leg_knee' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle' has
+      translation animation that will be discarded.\n\nClip 'm_Shrek_asleep_poke1'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_elbow'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_wrist'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\nClip 'm_shrek_roar2' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_head'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has scale animation that will be discarded.\n\t'shrek:jnt_r_hand_mid_2' has
+      translation animation that will be discarded.\n\t'shrek:jnt_r_hand_ring_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_food_hungry_in'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_torso_spine_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n\nClip 'm_Shrek_tickleNoteReact'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shrek:jnt_c_torso_spine_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_c_head_jaw'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_arm_shoulder'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_index_1'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_index_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_mid_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_mid_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_pinky_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_ring_2'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_hand_ring_3'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_l_leg_ankle'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_knee'
+      has translation animation that will be discarded.\n\t'shrek:jnt_r_leg_ankle'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ShrekModel anims(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ShrekModel
+      parentName: ShrekModel anims(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.00000004371139}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: shrek:o_Shrek
+      parentName: ShrekModel
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CFXM3_MagicAura_A (Green)
+      parentName: ShrekModel
+      position: {x: -0, y: 0.02, z: 0}
+      rotation: {x: -6.1232336e-17, y: 1, z: -6.1232336e-17, w: 0.00000004371139}
+      scale: {x: 100, y: 100, z: 100}
+    - name: CFXM3 Spikes
+      parentName: CFXM3_MagicAura_A (Green)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CFXM3 Stars
+      parentName: CFXM3_MagicAura_A (Green)
+      position: {x: -0, y: 0.001, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:Motion
+      parentName: ShrekModel
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -6.617445e-24, y: 3.5527137e-15, z: -6.617445e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_c_torso_origin
+      parentName: shrek:Motion
+      position: {x: -0.022955958, y: 0.94657105, z: 0.023944885}
+      rotation: {x: 0.00023723657, y: -0.99761933, z: 0.0689609, w: -0.000016530934}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Fart Particle System
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: 0.056999996, y: -0.205, z: -0.053}
+      rotation: {x: 0.8231239, y: -0.3359862, z: 0.38448223, w: 0.248503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_leg_hip
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: 0.20426902, y: 0.003382208, z: 0.023704989}
+      rotation: {x: 0.75505894, y: -0.65217054, z: 0.043978207, w: 0.051240798}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: shrek:jntSCALE_r_leg_hip
+      parentName: shrek:jnt_r_leg_hip
+      position: {x: -0, y: -7.105427e-17, z: 0}
+      rotation: {x: -5.8207654e-11, y: -0.0000000059371805, z: -0.0000000035232683, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_leg_knee
+      parentName: shrek:jnt_r_leg_hip
+      position: {x: 0.46094477, y: 0.0000019994413, z: 0.0000037260493}
+      rotation: {x: -0.0013275689, y: -0.07967113, z: 0.04322273, w: 0.99588287}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.9999998}
+    - name: shrek:jntSCALE_r_leg_knee
+      parentName: shrek:jnt_r_leg_knee
+      position: {x: 7.105427e-17, y: 0, z: 0}
+      rotation: {x: 0.000000022351742, y: 0.000000007450581, z: 0.000000009313226, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_leg_ankle
+      parentName: shrek:jnt_r_leg_knee
+      position: {x: 0.3853923, y: 0.0000002881172, z: -0.0000007133822}
+      rotation: {x: -0.054481614, y: 0.083118714, z: 0.0345759, w: 0.9944484}
+      scale: {x: 1, y: 1.0000004, z: 0.9999999}
+    - name: shrek:jnt_r_leg_ball
+      parentName: shrek:jnt_r_leg_ankle
+      position: {x: 0.091323346, y: -0.00016587756, z: -0.20570962}
+      rotation: {x: -0.012937844, y: -0.7022423, z: -0.010938207, w: -0.7117365}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.9999997}
+    - name: shrek:jnt_c_leg_skirt
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: 3.5527136e-17, y: 2.5579537e-15, z: -1.7763567e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_leg_skirt
+      parentName: shrek:jnt_c_leg_skirt
+      position: {x: 0.20426902, y: 0.0033911222, z: 0.02370375}
+      rotation: {x: 0.7513515, y: -0.6482165, z: 0.08671376, w: 0.08813164}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: shrek:jnt_l_leg_skirt
+      parentName: shrek:jnt_c_leg_skirt
+      position: {x: -0.20426863, y: 0.003198429, z: 0.023730496}
+      rotation: {x: -0.088130124, y: 0.086721346, z: 0.64857614, w: 0.7510403}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999997}
+    - name: shrek:jnt_l_leg_hip
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: -0.24266322, y: 0.003171259, z: 0.023734272}
+      rotation: {x: -0.05121863, y: 0.044003207, z: 0.6525292, w: 0.75474906}
+      scale: {x: 0.99999976, y: 0.99999976, z: 1.0000001}
+    - name: shrek:jntSCALE_l_leg_hip
+      parentName: shrek:jnt_l_leg_hip
+      position: {x: -8.5265126e-16, y: -2.842171e-16, z: 0}
+      rotation: {x: 1.7462298e-10, y: -5.820766e-11, z: 0.00000008940697, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: shrek:jnt_l_leg_knee
+      parentName: shrek:jnt_l_leg_hip
+      position: {x: -0.46094644, y: -0.0000011672447, z: -0.0000021130556}
+      rotation: {x: -0.0013277234, y: -0.07967042, z: 0.043223772, w: 0.9958828}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000001}
+    - name: shrek:jntSCALE_l_leg_knee
+      parentName: shrek:jnt_l_leg_knee
+      position: {x: -0.0000000013424124, y: -0.000000016151443, z: 4.0030623e-10}
+      rotation: {x: -0.0000000037252903, y: -0.0000000037252903, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: shrek:jnt_l_leg_ankle
+      parentName: shrek:jnt_l_leg_knee
+      position: {x: -0.38538992, y: 0.0000000066495827, z: -0.0000000027229874}
+      rotation: {x: -0.05448149, y: 0.083118364, z: 0.034575403, w: 0.9944484}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: shrek:jnt_l_leg_ball
+      parentName: shrek:jnt_l_leg_ankle
+      position: {x: -0.09132353, y: 0.00016569115, z: 0.20570976}
+      rotation: {x: 0.012937844, y: 0.7022423, z: 0.010938227, w: 0.71173644}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: shrek:jnt_c_torso_spine_1
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: 0.000049810365, y: 0.07007068, z: 0.0004637942}
+      rotation: {x: -0.00022016467, y: 0.000053972, z: 0.00038923955, w: 0.9999999}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: shrek:jntSCALE_c_torso_spine_1
+      parentName: shrek:jnt_c_torso_spine_1
+      position: {x: -4.1633362e-19, y: -1.4210854e-16, z: 7.105427e-17}
+      rotation: {x: -0.000000014897549, y: 0.000000022659151, z: -0.0000000061118044, w: 1}
+      scale: {x: 1.005275, y: 0.9873731, z: 1.005275}
+    - name: BellyNode
+      parentName: shrek:jntSCALE_c_torso_spine_1
+      position: {x: -0.039173998, y: 0.075307995, z: 0.000000018477}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_c_torso_spine_2
+      parentName: shrek:jnt_c_torso_spine_1
+      position: {x: 0.00039106762, y: 0.1443027, z: 0.00008079212}
+      rotation: {x: -0.038129024, y: -0.000014782672, z: -0.0001481497, w: 0.9992729}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: shrek:jntSCALE_c_torso_spine_2
+      parentName: shrek:jnt_c_torso_spine_2
+      position: {x: 4.016584e-14, y: 0, z: 0}
+      rotation: {x: 0.0000000018625721, y: -0.0000000117534125, z: -0.0000000014651957, w: 1}
+      scale: {x: 1.0021017, y: 0.98737305, z: 1.0021017}
+    - name: shrek:jnt_c_torso_spine_3
+      parentName: shrek:jnt_c_torso_spine_2
+      position: {x: 0.000002013907, y: 0.19230863, z: -0.000101388265}
+      rotation: {x: 0.015015362, y: -0.000006899157, z: -0.00009020982, w: 0.9998873}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: shrek:jnt_r_arm_clavicle
+      parentName: shrek:jnt_c_torso_spine_3
+      position: {x: -0.08126068, y: 0.27508405, z: 0.0063452623}
+      rotation: {x: -0.9873313, y: -0.05331373, z: 0.1449181, w: -0.036515098}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999994}
+    - name: shrek:jnt_r_arm_clavicleCoat
+      parentName: shrek:jnt_r_arm_clavicle
+      position: {x: 1.4210854e-16, y: -1.1368684e-15, z: 7.105427e-17}
+      rotation: {x: -0, y: -0, z: -4.656613e-10, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: shrek:jnt_r_arm_shoulder
+      parentName: shrek:jnt_r_arm_clavicle
+      position: {x: 0.49138758, y: -0.009686169, z: -0.0057159923}
+      rotation: {x: 0.033872128, y: 0.14321226, z: 0.072354525, w: 0.98646224}
+      scale: {x: 0.99999964, y: 0.99999994, z: 0.99999976}
+    - name: shrek:jntSCALE_r_arm_shoulder
+      parentName: shrek:jnt_r_arm_shoulder
+      position: {x: 1.4210854e-16, y: 2.842171e-16, z: -7.105427e-17}
+      rotation: {x: -0.00005132518, y: 0.000487376, z: 0.00021799744, w: 0.99999994}
+      scale: {x: 1.0000004, y: 0.9999998, z: 1.0000004}
+    - name: shrek:jnt_r_arm_shoulderRoll
+      parentName: shrek:jnt_r_arm_shoulder
+      position: {x: 1.1368684e-15, y: 2.842171e-16, z: 0}
+      rotation: {x: -0.000000018626451, y: -0.0000000037252903, z: 0.00000004202593, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: shrek:jnt_r_arm_elbow
+      parentName: shrek:jnt_r_arm_shoulder
+      position: {x: 0.45696613, y: -0.00000086814134, z: -0.00000017783846}
+      rotation: {x: -0.017783519, y: -0.031362697, z: 0.009423875, w: -0.9993055}
+      scale: {x: 1.0000002, y: 0.99999976, z: 1.0000001}
+    - name: shrek:jntSCALE_r_arm_elbow
+      parentName: shrek:jnt_r_arm_elbow
+      position: {x: 0.00020315364, y: 0.0001693783, z: -0.00040851388}
+      rotation: {x: -0.00008768588, y: -0.00072253495, z: -0.000077970326, w: 0.9999998}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: shrek:jnt_r_arm_roll
+      parentName: shrek:jnt_r_arm_elbow
+      position: {x: 0.17000127, y: 0.00000044895197, z: 0.00000031909198}
+      rotation: {x: 0.0000000074505797, y: 0.000000013038514, z: -0.00000021047887, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: shrek:jnt_r_arm_sleeve
+      parentName: shrek:jnt_r_arm_elbow
+      position: {x: 1.4210854e-16, y: -7.81597e-16, z: 2.4424906e-17}
+      rotation: {x: -0.0014294161, y: -0.000000020489095, z: -0.00000015366821, w: 0.999999}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: shrek:jnt_r_arm_wrist
+      parentName: shrek:jnt_r_arm_elbow
+      position: {x: 0.34074646, y: -0.000002390983, z: -0.0000012596597}
+      rotation: {x: 0.008137435, y: -0.034759115, z: 0.074161045, w: 0.9966071}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1}
+    - name: shrek:jnt_r_attach_prop
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 0.14244355, y: 0.014439414, z: -0.0020790796}
+      rotation: {x: -0.032624435, y: -0.00000017136334, z: 0.000003329012, w: 0.9994677}
+      scale: {x: 0.99999994, y: 0.99999964, z: 1}
+    - name: shrek:jnt_r_hand_ring_1
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 0.2296354, y: -0.04199113, z: 0.07475903}
+      rotation: {x: -0.15618174, y: -0.6977216, z: 0.07915863, w: 0.69464076}
+      scale: {x: 1.0000011, y: 1, z: 1.0000008}
+    - name: shrek:jnt_r_hand_ring_2
+      parentName: shrek:jnt_r_hand_ring_1
+      position: {x: 0.00000014221322, y: 0.00000019100311, z: -0.09583947}
+      rotation: {x: 0.035218332, y: 0.0000044405447, z: -0.0000014901156, w: 0.99937963}
+      scale: {x: 0.99999946, y: 0.9999997, z: 0.99999964}
+    - name: shrek:jnt_r_hand_ring_3
+      parentName: shrek:jnt_r_hand_ring_2
+      position: {x: 0.0000005783866, y: -0.00044255453, z: -0.053583946}
+      rotation: {x: 0.12651438, y: 0.00000011920929, z: 0.000000059604645, w: 0.9919648}
+      scale: {x: 1.000001, y: 0.9999999, z: 1.0000011}
+    - name: shrek:jnt_r_hand_mid_1
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 0.24638368, y: -0.05938371, z: -0.011994623}
+      rotation: {x: 0.04255172, y: 0.705206, z: 0.018500797, w: -0.70748264}
+      scale: {x: 1.0000005, y: 0.9999999, z: 1.0000004}
+    - name: shrek:jnt_r_hand_mid_2
+      parentName: shrek:jnt_r_hand_mid_1
+      position: {x: -0.00000017552989, y: -0.0000006376539, z: -0.09889521}
+      rotation: {x: -0.024821814, y: -0.0000015795223, z: -0.00000035203976, w: -0.99969196}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+    - name: shrek:jnt_r_hand_mid_3
+      parentName: shrek:jnt_r_hand_mid_2
+      position: {x: -0.000000005007035, y: 0.0006293285, z: -0.059104666}
+      rotation: {x: 0.07536858, y: 0.000000029802322, z: -0.000000014901161, w: 0.9971558}
+      scale: {x: 1.0000006, y: 0.99999964, z: 1.0000006}
+    - name: shrek:jnt_r_hand_pinky_4
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 0.08194314, y: -0.026579252, z: 0.074591294}
+      rotation: {x: -0.272485, y: -0.5828779, z: 0.12418405, w: 0.7553699}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: shrek:jnt_r_hand_pinky_1
+      parentName: shrek:jnt_r_hand_pinky_4
+      position: {x: 0.034117542, y: -0.0054247007, z: -0.12792467}
+      rotation: {x: 0.0045961416, y: -0.10740528, z: 0.041397255, w: 0.9933425}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1.0000002}
+    - name: shrek:jnt_r_hand_pinky_2
+      parentName: shrek:jnt_r_hand_pinky_1
+      position: {x: 0.00000070984635, y: -0.0000004924083, z: -0.08409286}
+      rotation: {x: 0.035345763, y: -0.000015944233, z: 0.0000018576673, w: 0.9993751}
+      scale: {x: 0.99999964, y: 0.9999999, z: 0.99999976}
+    - name: shrek:jnt_r_hand_pinky_3
+      parentName: shrek:jnt_r_hand_pinky_2
+      position: {x: -0.00000108961, y: -0.00037452634, z: -0.044100303}
+      rotation: {x: 0.13104528, y: 0.000000059604645, z: 0.000000044703484, w: 0.9913764}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: shrek:jnt_r_hand_index_4
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 0.089034595, y: -0.03205384, z: -0.05031629}
+      rotation: {x: 0.004057814, y: 0.71578383, z: 0.123385906, w: -0.6873231}
+      scale: {x: 1.0000004, y: 0.9999999, z: 0.9999996}
+    - name: shrek:jnt_r_hand_index_1
+      parentName: shrek:jnt_r_hand_index_4
+      position: {x: -0.032806814, y: -0.00000039948662, z: -0.15593971}
+      rotation: {x: 0.019991186, y: 0.07942891, z: -0.07853309, w: 0.9935412}
+      scale: {x: 1, y: 0.9999997, z: 0.9999999}
+    - name: shrek:jnt_r_hand_index_2
+      parentName: shrek:jnt_r_hand_index_1
+      position: {x: 0.000000021001764, y: 0.000000004256085, z: -0.088947006}
+      rotation: {x: 0.028570648, y: -0.0000011995428, z: 0.00000017904665, w: 0.9995918}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+    - name: shrek:jnt_r_hand_index_3
+      parentName: shrek:jnt_r_hand_index_2
+      position: {x: -0.00000013024106, y: 0.0000001652246, z: -0.052101526}
+      rotation: {x: 0.021728687, y: 0.000000029802322, z: -0.000000029802322, w: 0.99976397}
+      scale: {x: 1.000001, y: 1.0000001, z: 1.0000008}
+    - name: shrek:jnt_r_hand_thumb_1
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 0.07752926, y: 0.013889612, z: -0.09388067}
+      rotation: {x: -0.30026114, y: 0.33760536, z: 0.7145539, w: -0.53411484}
+      scale: {x: 0.99999964, y: 0.99999964, z: 1}
+    - name: shrek:jnt_r_hand_thumb_2
+      parentName: shrek:jnt_r_hand_thumb_1
+      position: {x: -0.0003393052, y: -0.022627082, z: -0.13484035}
+      rotation: {x: -0.05268753, y: 0.0010041143, z: 0.01270485, w: 0.99852973}
+      scale: {x: 1, y: 1.0000002, z: 0.99999976}
+    - name: shrek:jnt_r_hand_thumb_3
+      parentName: shrek:jnt_r_hand_thumb_2
+      position: {x: -0.0000004835795, y: -0.00000043476774, z: -0.048380204}
+      rotation: {x: 0.1537254, y: 0.0029286593, z: -0.018821053, w: 0.98793006}
+      scale: {x: 0.9999998, y: 0.9999996, z: 0.9999999}
+    - name: shrek:jnt_l_arm_clavicle
+      parentName: shrek:jnt_c_torso_spine_3
+      position: {x: 0.08116859, y: 0.27511582, z: 0.006342444}
+      rotation: {x: -0.03649161, y: -0.14490907, z: -0.053147577, w: 0.9873424}
+      scale: {x: 1.0000004, y: 0.99999964, z: 1.0000005}
+    - name: shrek:jnt_l_arm_clavicleCoat
+      parentName: shrek:jnt_l_arm_clavicle
+      position: {x: -8.8817837e-17, y: -2.842171e-16, z: 8.8817837e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_l_arm_shoulder
+      parentName: shrek:jnt_l_arm_clavicle
+      position: {x: -0.491387, y: 0.009685775, z: 0.005716147}
+      rotation: {x: 0.033871915, y: 0.14321265, z: 0.072353564, w: 0.98646224}
+      scale: {x: 0.9999998, y: 0.9999994, z: 0.9999991}
+    - name: shrek:jntSCALE_l_arm_shoulder
+      parentName: shrek:jnt_l_arm_shoulder
+      position: {x: -4.2632563e-16, y: -4.2632563e-16, z: 2.1316282e-16}
+      rotation: {x: -0.000051265575, y: 0.00048740953, z: 0.00021800396, w: 0.99999994}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000007}
+    - name: shrek:jnt_l_arm_shoulderRoll
+      parentName: shrek:jnt_l_arm_shoulder
+      position: {x: -2.842171e-16, y: -1.4210854e-16, z: 2.1316282e-16}
+      rotation: {x: 0.000000020489097, y: 0.000000026077032, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+    - name: shrek:jnt_l_arm_elbow
+      parentName: shrek:jnt_l_arm_shoulder
+      position: {x: -0.45696926, y: -1.4210854e-16, z: -1.4210854e-16}
+      rotation: {x: 0.017784623, y: 0.031364348, z: -0.009426347, w: 0.99930537}
+      scale: {x: 1, y: 0.99999994, z: 1.0000004}
+    - name: shrek:jntSCALE_l_arm_elbow
+      parentName: shrek:jnt_l_arm_elbow
+      position: {x: -0.00020567095, y: -0.00017125822, z: 0.0004079631}
+      rotation: {x: -0.00008770078, y: -0.00072248274, z: -0.000077933066, w: 0.99999976}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: shrek:jnt_l_arm_roll
+      parentName: shrek:jnt_l_arm_elbow
+      position: {x: -0.17, y: -8.5265126e-16, z: 3.5527136e-17}
+      rotation: {x: -0.000000014901159, y: -0.000000014901159, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: shrek:jnt_l_arm_sleeve
+      parentName: shrek:jnt_l_arm_elbow
+      position: {x: -4.2632563e-16, y: -1.4210854e-16, z: -1.5987211e-16}
+      rotation: {x: -0.0014294907, y: -0.000000014901161, z: -0.000000029802322, w: 0.99999905}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999964}
+    - name: shrek:jnt_l_arm_wrist
+      parentName: shrek:jnt_l_arm_elbow
+      position: {x: -0.34075072, y: -1.2789769e-15, z: 1.7763568e-17}
+      rotation: {x: 0.008137412, y: -0.034759074, z: 0.07416099, w: 0.9966072}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000005}
+    - name: shrek:jnt_l_hand_ring_1
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -0.2296317, y: 0.041991953, z: -0.07475841}
+      rotation: {x: -0.15618312, y: -0.69771945, z: 0.079156786, w: 0.6946428}
+      scale: {x: 0.99999934, y: 0.9999999, z: 0.99999964}
+    - name: shrek:jnt_l_hand_ring_2
+      parentName: shrek:jnt_l_hand_ring_1
+      position: {x: -0, y: 9.414691e-16, z: 0.0958397}
+      rotation: {x: 0.03521865, y: -0.0000007748602, z: -0.000000037252896, w: 0.9993797}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: shrek:jnt_l_hand_ring_3
+      parentName: shrek:jnt_l_hand_ring_2
+      position: {x: -1.4210854e-16, y: 0.00044247854, z: 0.053583544}
+      rotation: {x: 0.12651429, y: -0.000000014901161, z: -0, w: 0.9919648}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: shrek:jnt_l_hand_mid_1
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -0.24637951, y: 0.05938501, z: 0.0119957095}
+      rotation: {x: -0.042557083, y: -0.7052034, z: -0.018506143, w: 0.70748466}
+      scale: {x: 0.99999946, y: 0.99999994, z: 0.9999998}
+    - name: shrek:jnt_l_hand_mid_2
+      parentName: shrek:jnt_l_hand_mid_1
+      position: {x: -2.842171e-16, y: -5.684342e-16, z: 0.09889592}
+      rotation: {x: -0.02483196, y: -0.00000032782543, z: -0.0000000055879337, w: -0.9996916}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000002}
+    - name: shrek:jnt_l_hand_mid_3
+      parentName: shrek:jnt_l_hand_mid_2
+      position: {x: -0, y: -0.0006288785, z: 0.059103627}
+      rotation: {x: 0.075368494, y: -0, z: -0, w: 0.9971558}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999997}
+    - name: shrek:jnt_l_hand_pinky_4
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -0.08193954, y: 0.026580531, z: -0.074590206}
+      rotation: {x: -0.27248448, y: -0.582874, z: 0.12418138, w: 0.75537354}
+      scale: {x: 0.99999946, y: 0.9999999, z: 1}
+    - name: shrek:jnt_l_hand_pinky_1
+      parentName: shrek:jnt_l_hand_pinky_4
+      position: {x: -0.034117967, y: 0.005425109, z: 0.12792447}
+      rotation: {x: 0.004590152, y: -0.10741096, z: 0.041396797, w: 0.9933419}
+      scale: {x: 1.0000001, y: 1.0000006, z: 0.9999998}
+    - name: shrek:jnt_l_hand_pinky_2
+      parentName: shrek:jnt_l_hand_pinky_1
+      position: {x: 5.684342e-16, y: 0, z: 0.08409327}
+      rotation: {x: 0.035345927, y: 0.00000040233112, z: 0.00000011699733, w: 0.9993751}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000004}
+    - name: shrek:jnt_l_hand_pinky_3
+      parentName: shrek:jnt_l_hand_pinky_2
+      position: {x: -1.4210854e-16, y: 0.00037449176, z: 0.04410003}
+      rotation: {x: 0.13104522, y: -0.000000067055225, z: -0.000000014901161, w: 0.9913764}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999994}
+    - name: shrek:jnt_l_hand_index_4
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -0.089030854, y: 0.03205486, z: 0.050317533}
+      rotation: {x: -0.0040600584, y: -0.715783, z: -0.12338741, w: 0.6873237}
+      scale: {x: 0.9999992, y: 0.9999995, z: 0.9999996}
+    - name: shrek:jnt_l_hand_index_1
+      parentName: shrek:jnt_l_hand_index_4
+      position: {x: 0.03280657, y: 4.2632563e-16, z: 0.15593965}
+      rotation: {x: 0.019994501, y: 0.07942893, z: -0.078533314, w: 0.993541}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+    - name: shrek:jnt_l_hand_index_2
+      parentName: shrek:jnt_l_hand_index_1
+      position: {x: -4.2632563e-16, y: 9.947598e-16, z: 0.08894703}
+      rotation: {x: -0.028571248, y: 0.00000206381, z: 0.00000006624029, w: -0.99959177}
+      scale: {x: 0.99999964, y: 1, z: 0.9999998}
+    - name: shrek:jnt_l_hand_index_3
+      parentName: shrek:jnt_l_hand_index_2
+      position: {x: 3.5527136e-17, y: -1.2112533e-15, z: 0.05210099}
+      rotation: {x: 0.02172868, y: -0.000000014901161, z: -0.000000014901161, w: 0.9997639}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+    - name: shrek:jnt_l_hand_thumb_1
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -0.07752571, y: -0.0138885975, z: 0.09388151}
+      rotation: {x: 0.300258, y: -0.33760697, z: -0.7145544, w: 0.53411496}
+      scale: {x: 1.0000004, y: 0.9999992, z: 1.0000004}
+    - name: shrek:jnt_l_hand_thumb_2
+      parentName: shrek:jnt_l_hand_thumb_1
+      position: {x: 0.00033940302, y: 0.022627626, z: 0.13483997}
+      rotation: {x: -0.05269645, y: 0.0010064087, z: 0.012703841, w: 0.99852926}
+      scale: {x: 0.99999946, y: 0.9999999, z: 0.9999991}
+    - name: shrek:jnt_l_hand_thumb_3
+      parentName: shrek:jnt_l_hand_thumb_2
+      position: {x: 2.842171e-16, y: -7.105427e-17, z: 0.048380494}
+      rotation: {x: -0.15372539, y: -0.0029286072, z: 0.018821046, w: -0.98793}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: shrek:jnt_c_torso_neck
+      parentName: shrek:jnt_c_torso_spine_3
+      position: {x: -1.7763568e-17, y: 0.37046093, z: -3.5527136e-17}
+      rotation: {x: 0.16069117, y: 0.000036678193, z: 0.0001420206, w: 0.98700476}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1.0000001}
+    - name: shrek:jnt_c_torso_head
+      parentName: shrek:jnt_c_torso_neck
+      position: {x: 1.7763568e-17, y: 0.28795725, z: 4.973799e-16}
+      rotation: {x: -0.20558755, y: -0.00001286893, z: -0.000061145474, w: 0.9786387}
+      scale: {x: 0.9999992, y: 1.0000001, z: 0.99999946}
+    - name: NoseNode
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.049999997, y: 0.027657999, z: 0.000000017435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_head_mouthCorner
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.13531402, y: -0.10487059, z: 0.17177483}
+      rotation: {x: -0.9656233, y: -0.008792866, z: 0.25382003, w: 0.05540515}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000001}
+    - name: shrek:jnt_r_head_mouth
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.04291238, y: -0.16881727, z: 0.2844487}
+      rotation: {x: -0.95805717, y: 0.010911176, z: 0.2551892, w: 0.12994576}
+      scale: {x: 1.0000012, y: 1.0000011, z: 1.0000001}
+    - name: shrek:jnt_l_head_mouth
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.050096836, y: -0.16991033, z: 0.28507861}
+      rotation: {x: 0.1299458, y: -0.2551892, z: 0.010911233, w: 0.9580572}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000006}
+    - name: Particle System
+      parentName: shrek:jnt_l_head_mouth
+      position: {x: 0.063599996, y: -0.030003347, z: -0.006001963}
+      rotation: {x: -0.082799755, y: 0.18630864, z: -0.25773096, w: 0.9444618}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_l_head_mouthCorner
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.13862556, y: -0.07170427, z: 0.15058635}
+      rotation: {x: 0.055405162, y: -0.25382, z: -0.008792841, w: 0.9656233}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000005}
+    - name: shrek:jnt_c_head_tongue
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.0064174347, y: -0.174733, z: 0.051615685}
+      rotation: {x: -0.035784103, y: 0.0000000056803486, z: 0.000000004025723, w: 0.99935955}
+      scale: {x: 1.0000012, y: 1, z: 1.0000011}
+    - name: shrek:jnt_r_head_ear
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.19170307, y: 0.073620155, z: 0.05388902}
+      rotation: {x: -0.95692176, y: -0.26460084, z: -0.1192698, w: 0.007865809}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000005}
+    - name: shrek:jnt_r_head_browOuter
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.13545479, y: 0.074699655, z: 0.19936837}
+      rotation: {x: -0.9706222, y: 0.013601691, z: 0.23486707, w: 0.050448727}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000002}
+    - name: shrek:jnt_r_head_browInner
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.058750838, y: 0.08500056, z: 0.23684491}
+      rotation: {x: -0.99433815, y: -0.02323154, z: 0.09888915, w: -0.031190315}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000006}
+    - name: shrek:jnt_l_head_mouthCrease
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.17464903, y: -0.10245821, z: 0.16954751}
+      rotation: {x: 0.09109136, y: 0.010356394, z: -0.02495821, w: 0.9954759}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: shrek:jnt_r_head_mouthCrease
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.16411136, y: -0.1474692, z: 0.18237884}
+      rotation: {x: -0.9954759, y: -0.024958251, z: -0.010356353, w: 0.09109136}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000001}
+    - name: shrek:jnt_l_head_lidLower
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.08123681, y: 0.025541991, z: 0.1699984}
+      rotation: {x: 0.13347858, y: -0.09948529, z: -0.010341987, w: 0.98599154}
+      scale: {x: 1.0000011, y: 1, z: 1.0000012}
+    - name: shrek:jnt_l_head_lidUpper
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.08123681, y: 0.025541991, z: 0.1699984}
+      rotation: {x: -0.13022487, y: -0.09546573, z: -0.015125331, w: 0.98676187}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000002}
+    - name: shrek:jnt_r_head_lidUpper
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.08113494, y: 0.025541991, z: 0.1699984}
+      rotation: {x: -0.9867619, y: -0.015125368, z: 0.09546579, w: -0.13022484}
+      scale: {x: 1.000001, y: 1.0000002, z: 1}
+    - name: shrek:jnt_r_head_lidLower
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.08113494, y: 0.025541991, z: 0.1699984}
+      rotation: {x: -0.98599154, y: -0.010342003, z: 0.09948533, w: 0.13347857}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1.0000004}
+    - name: shrek:jnt_l_head_ear
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.19170292, y: 0.073624775, z: 0.053888988}
+      rotation: {x: 0.007865794, y: 0.11926983, z: -0.26460084, w: 0.95692176}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: shrek:jnt_l_head_mouthSnarl
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.044209506, y: -0.16825348, z: 0.272195}
+      rotation: {x: 0.05591591, y: -0.17910865, z: -0.004523047, w: 0.98222864}
+      scale: {x: 1.0000007, y: 1, z: 1.000001}
+    - name: shrek:jnt_r_head_mouthSnarl
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.04428918, y: -0.16430773, z: 0.2727529}
+      rotation: {x: -0.98222864, y: -0.0045230524, z: 0.17910871, w: 0.055915896}
+      scale: {x: 1.0000007, y: 1.0000005, z: 0.9999999}
+    - name: shrek:jnt_l_head_browInner
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.055748813, y: 0.10984683, z: 0.22826393}
+      rotation: {x: -0.031190298, y: -0.098889135, z: -0.023231514, w: 0.9943382}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000004}
+    - name: shrek:jnt_l_head_browOuter
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.13613431, y: 0.09221765, z: 0.20144582}
+      rotation: {x: 0.05044874, y: -0.23486704, z: 0.013601716, w: 0.9706222}
+      scale: {x: 1.0000007, y: 1, z: 1.0000007}
+    - name: shrek:jnt_l_head_cheek
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.11996147, y: -0.08024607, z: 0.22860175}
+      rotation: {x: 0.004920996, y: -0.0004676493, z: 0.0055542565, w: 0.9999724}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000002}
+    - name: shrek:jnt_r_head_cheek
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.11996109, y: -0.080249384, z: 0.22860216}
+      rotation: {x: -0.99997234, y: 0.005554236, z: 0.0004676669, w: 0.0049209953}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: shrek:jnt_c_head_jaw
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.0005010116, y: -0.08810881, z: -0.024451198}
+      rotation: {x: 0.118788846, y: 0.000000007983527, z: 0.000000017730882, w: 0.99291956}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: shrek:jnt_l_head_eye
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.08009979, y: 0.025644196, z: 0.15679322}
+      rotation: {x: -0.000000014901161, y: 0.000000003272362, z: -0.0000000023028406, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999994}
+    - name: shrek:jnt_r_head_eye
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 0.07999794, y: 0.0256442, z: 0.15679322}
+      rotation: {x: -0.000000014901161, y: 0.000000003272362, z: -0.0000000023028406, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999994}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
